@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FeedingBenitaFoundation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de735208a5cd472ba6f576581acfa108fe6f514b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FeedingBenitaFoundation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FeedingBenitaFoundation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,16 +5,64 @@
       "PackagePath": "staticwebassets/FeedingBenitaFoundation.bundle.scp.css"
     },
     {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/css/shCore.css",
+      "PackagePath": "staticwebassets/css/shCore.css"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/css/shCoreMidnight.css",
+      "PackagePath": "staticwebassets/css/shCoreMidnight.css"
+    },
+    {
       "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/css/tailwind.css",
+      "PackagePath": "staticwebassets/css/tailwind.css"
     },
     {
       "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/images/eatingKid.jpeg",
+      "PackagePath": "staticwebassets/images/eatingKid.jpeg"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/images/gazingkid.jpeg",
+      "PackagePath": "staticwebassets/images/gazingkid.jpeg"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/js/shBrushJScript.js",
+      "PackagePath": "staticwebassets/js/shBrushJScript.js"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/js/shBrushXml.js",
+      "PackagePath": "staticwebassets/js/shBrushXml.js"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/js/shCore.js",
+      "PackagePath": "staticwebassets/js/shCore.js"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/js/simplebar.js",
+      "PackagePath": "staticwebassets/js/simplebar.js"
+    },
+    {
       "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/js/uikit.min.js",
+      "PackagePath": "staticwebassets/js/uikit.min.js"
     },
     {
       "Id": "/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/wwwroot/lib/bootstrap/LICENSE",

@@ -28,3 +28,4 @@
 /Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/obj/Debug/net8.0/FeedingBenitaFoundation.pdb
 /Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/obj/Debug/net8.0/FeedingBenitaFoundation.genruntimeconfig.cache
 /Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/obj/Debug/net8.0/ref/FeedingBenitaFoundation.dll
+/Users/rtmukondiwa/FeedingBFoundation/FeedingBenitaFoundation/FeedingBenitaFoundation/obj/Debug/net8.0/FeedingBenitaFoundation.sourcelink.json
